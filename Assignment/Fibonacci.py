@@ -1,3 +1,6 @@
+
+###changes
+
 num_terms = int(input("How many terms? "))
 
 # first two terms

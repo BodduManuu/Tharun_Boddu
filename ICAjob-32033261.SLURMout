@@ -1,0 +1,32 @@
+
+Lmod is automatically replacing "Python/3.6.4" with "Conda/3".
+   JobId=32033261 JobName=ICAdecomposition
+   UserId=boddutha(6194838) GroupId=CSE_801_SS24_S1(2890) MCS_label=N/A
+   Priority=60736 Nice=0 Account=general QOS=boddutha
+   JobState=RUNNING Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:07 TimeLimit=00:45:00 TimeMin=N/A
+   SubmitTime=2024-03-03T21:36:06 EligibleTime=2024-03-03T21:36:06
+   AccrueTime=2024-03-03T21:36:06
+   StartTime=2024-03-03T21:36:06 EndTime=2024-03-03T22:21:06 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2024-03-03T21:36:06 Scheduler=Main
+   Partition=general-long AllocNode:Sid=dev-intel16:1669
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=lac-392
+   BatchHost=lac-392
+   NumNodes=1 NumCPUs=1 NumTasks=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   ReqTRES=cpu=1,mem=32G,node=1,billing=4980
+   AllocTRES=cpu=1,mem=32G,node=1,billing=4980
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=32G MinTmpDiskNode=0
+   Features=[intel14|intel16|intel18|(amr|acm)|nvf|nal|nif] DelayBoot=00:00:00
+   OverSubscribe=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/mnt/ufs18/home-263/boddutha/ITM801A_Tharun/hybrid.sb
+   WorkDir=/mnt/ufs18/home-263/boddutha/ITM801A_Tharun
+   Comment=stdout=/mnt/ufs18/home-263/boddutha/ITM801A_Tharun/ICAjob-32033261.SLURMout 
+   StdErr=/mnt/ufs18/home-263/boddutha/ITM801A_Tharun/ICAjob-32033261.SLURMout
+   StdIn=/dev/null
+   StdOut=/mnt/ufs18/home-263/boddutha/ITM801A_Tharun/ICAjob-32033261.SLURMout
+   Power=
+   
+
